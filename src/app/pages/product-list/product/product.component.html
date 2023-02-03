@@ -1,0 +1,14 @@
+<section  class="products">
+    <div class="card">
+        <h2>{{product?product.name:""}}</h2>
+        <p><b>Price: </b>{{product?product.price :""}}<br>
+            <b> Characteristics: </b>{{product?product.characteristics :""}}<br>
+            <b>stock: </b>{{product?product.stock :""}}
+        </p>        
+        <button [disabled]="product? product.stock===0:true" mat-flat-button color="primary" (click)="addProduct(product)">+</button>
+        <button [disabled]="product? product.quantity==0:true" mat-flat-button color="primary" (click)="subtractProduct(product)" >-</button>
+    </div>
+
+
+</section>
+

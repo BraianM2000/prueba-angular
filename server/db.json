@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Essential TypeScript 4: From Beginner to Pro",
+      "price": 45,
+      "characteristics": "Learn the essentials and more of TypeScript, a popular superset of the JavaScript language that adds support for static typing. TypeScript combines the typing features of C# or Java.",
+      "stock": 11
+    },
+    {
+      "id": 2,
+      "name": "Hackeando el cerebro de tus compradores: PsychoGrowth",
+      "price": 5,
+      "characteristics": "En Hackeando del cerebro de tus compradores, Corti nos revela cómo muchas compañías crean productos digitales o procesos de venta capaces de conectar con la psicología del comprador.",
+      "stock": 8
+    },
+    {
+      "id": 3,
+      "name": "Angular Routing: Learn To Create client-side and SPA with Routing and Navigation",
+      "price": 17,
+      "characteristics": "In this book, the reader will be able to focus on one concept of Angular in deep.",
+      "stock": 10
+    },
+    {
+      "id": 4,
+      "name": "SanDisk 128GB Ultra MicroSDXC UHS-I Memory Card with Adapter",
+      "price": 19,
+      "characteristics": "Ideal for Android smartphones and tablets, and MIL cameras. SanDisk Memory Zone app for easy file management (Download and Installation Required).",
+      "stock": 10
+    },
+    {
+      "id": 5,
+      "name": "GoPro HERO9 Black - Waterproof Action Camera with Front LCD",
+      "price": 399,
+      "characteristics": "5K Video - Shoot stunning video with up to 5K resolution, perfect for maintaining detail even when zooming in",
+      "stock": 10
+    },
+    {
+      "id": 6,
+      "name": "CL3 Rated High-Speed 4K HDMI Cable - 6 Feet",
+      "price": 7,
+      "characteristics": "HDMI A Male to A Male Cable: Supports Ethernet, 3D, 4K video and Audio Return Channel (ARC)",
+      "stock": 9
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+<mat-toolbar color="primary">
+  <span>Listado de productos</span>
+</mat-toolbar>
+
+<section>
+
+</section>
+<section class="products">
+  <mat-card class="card" *ngFor="let product of productList$ | async" >
+    <mat-card-header>{{product.name}}</mat-card-header>
+    <mat-card-content>{{product.stock}}</mat-card-content>
+    <mat-card-actions>
+      <button mat-flat-button color="primary" (click)="onClick(product)">Details</button>
+    </mat-card-actions>
+  </mat-card>
+</section>
+
+<app-product [product]="productDetails"></app-product>
+<app-checkout></app-checkout>
