@@ -14,7 +14,6 @@ export class ProductDetailsService{
     private totalSubject = new Subject<number>();
     private quntitySubject = new Subject<number>();
     private listSubject = new Subject<Product[]>();
-    private productSubject = new Subject<Product>
 
     get add$(): Observable<Product[]>{
         return this.addSubject.asObservable();
@@ -30,15 +29,6 @@ export class ProductDetailsService{
     get productList$(): Observable<Product[]>{
         return this.listSubject.asObservable();
     }
-  
-    get product$(): Observable<Product>{
-        return this.productSubject.asObservable()
-    }
-
-    getProduct(product:Product):void{
-        this.productSubject.next(product)
-    }
-
 
     addProduct(product: Product):void{
         this.add(product);
