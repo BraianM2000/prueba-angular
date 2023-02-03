@@ -26,14 +26,14 @@
       "name": "edragon Kumara K552 QWERTY",
       "price": 239990,
       "characteristics": "Ergonómico y apto para diversos usos ,Resiste a salpicaduras ,Función antighosting incorporada ,Tipo de teclado: mecánico.",
-      "stock": 60
+      "stock": 50
     },
     {
       "id": 5,
       "name": "Asus Rog Phone 6 Pro ",
       "price": 17999000,
       "characteristics": "l Asus ROG Phone 6 Pro mejora al ROG Phone 6 con algunas características como su pantalla secundaria OLED en su posterior, y 18GB de RAM con 512GB de almacenamiento que acompañan a su procesador Snapdragon 8+ Gen 1. ",
-      "stock": 10
+      "stock": 0
     },
     {
       "id": 6,

@@ -21,13 +21,11 @@ export class ProductComponent {
   addProduct(product: Product):void{
 
     this.productDetails.addProduct(product);
-    this.productService.updateProduct(product.id, product.stock).subscribe()
 
   }
 
   subtractProduct(product: Product):void{
     this.productDetails.subtractProducts(product);
-    this.productService.updateProduct(product.id, product.stock).subscribe()
   }
 
  
