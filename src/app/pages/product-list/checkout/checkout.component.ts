@@ -7,7 +7,7 @@ import { ProductDetailsService } from '../services/product-details.services';
 })
 export class CheckoutComponent  {
   total$ = this.orderDetails.total$
-  cart$ = this.orderDetails.add$;
+  order$ = this.orderDetails.add$;
   
   constructor(private orderDetails: ProductDetailsService){}
 
