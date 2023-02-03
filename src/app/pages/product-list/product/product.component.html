@@ -6,7 +6,7 @@
             <b>stock: </b>{{product?product.stock :""}}
         </p>        
         <button [disabled]="product? product.stock===0:true" mat-flat-button color="primary" (click)="addProduct(product)">+</button>
-        <button [disabled]="product? product.quantity==0:true" mat-flat-button color="primary" (click)="subtractProduct(product)" >-</button>
+        <button [disabled]="product? product.quantity==0:true" mat-flat-button color="warn" (click)="subtractProduct(product)" >-</button>
     </div>
 
 

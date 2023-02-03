@@ -3,3 +3,12 @@
     grid-template-columns: 1fr 1fr;
     margin: 50px;
 }
+
+table{
+    margin: 0 auto;
+}
+
+.toolbar{
+    background-color: #222222;
+    color: #fff;
+}
