@@ -2,45 +2,45 @@
   "products": [
     {
       "id": 1,
-      "name": "Essential TypeScript 4: From Beginner to Pro",
-      "price": 45,
-      "characteristics": "Learn the essentials and more of TypeScript, a popular superset of the JavaScript language that adds support for static typing. TypeScript combines the typing features of C# or Java.",
-      "stock": 11
+      "name": "RTX 30 Series RTX 3050 ",
+      "price": 2199900,
+      "characteristics": "interfaz PCI-Express 4.0, Bus de memoria: 128bit, Cantidad de núcleos: 2560.",
+      "stock": 16
     },
     {
       "id": 2,
-      "name": "Hackeando el cerebro de tus compradores: PsychoGrowth",
-      "price": 5,
-      "characteristics": "En Hackeando del cerebro de tus compradores, Corti nos revela cómo muchas compañías crean productos digitales o procesos de venta capaces de conectar con la psicología del comprador.",
-      "stock": 8
+      "name": "PC Gamer NVIDIA BATTLEBOX ESSENTIAL",
+      "price": 3600000,
+      "characteristics": "PC para Gaming OFICIAL de NVIDIA ,Ideada para Gaming a 1080p hasta 75fps en Ultra ,Configurada, probada, certificada.",
+      "stock": 5
     },
     {
       "id": 3,
-      "name": "Angular Routing: Learn To Create client-side and SPA with Routing and Navigation",
-      "price": 17,
-      "characteristics": "In this book, the reader will be able to focus on one concept of Angular in deep.",
-      "stock": 10
+      "name": "Mouse de juego Zelotes T80 negro",
+      "price": 27790,
+      "characteristics": "Utiliza cable, Posee rueda de desplazamiento ,Con luces para mejorar la experiencia de uso ,Con sensor óptico.",
+      "stock": 50
     },
     {
       "id": 4,
-      "name": "SanDisk 128GB Ultra MicroSDXC UHS-I Memory Card with Adapter",
-      "price": 19,
-      "characteristics": "Ideal for Android smartphones and tablets, and MIL cameras. SanDisk Memory Zone app for easy file management (Download and Installation Required).",
-      "stock": 10
+      "name": "edragon Kumara K552 QWERTY",
+      "price": 239990,
+      "characteristics": "Ergonómico y apto para diversos usos ,Resiste a salpicaduras ,Función antighosting incorporada ,Tipo de teclado: mecánico.",
+      "stock": 60
     },
     {
       "id": 5,
-      "name": "GoPro HERO9 Black - Waterproof Action Camera with Front LCD",
-      "price": 399,
-      "characteristics": "5K Video - Shoot stunning video with up to 5K resolution, perfect for maintaining detail even when zooming in",
+      "name": "Asus Rog Phone 6 Pro ",
+      "price": 17999000,
+      "characteristics": "l Asus ROG Phone 6 Pro mejora al ROG Phone 6 con algunas características como su pantalla secundaria OLED en su posterior, y 18GB de RAM con 512GB de almacenamiento que acompañan a su procesador Snapdragon 8+ Gen 1. ",
       "stock": 10
     },
     {
       "id": 6,
-      "name": "CL3 Rated High-Speed 4K HDMI Cable - 6 Feet",
-      "price": 7,
-      "characteristics": "HDMI A Male to A Male Cable: Supports Ethernet, 3D, 4K video and Audio Return Channel (ARC)",
-      "stock": 9
+      "name": "Nintendo Switch OLED 64GB",
+      "price": 2.184.905,
+      "characteristics": "ncluye 2 controles ,Resolución de 1920px x 1080px, Memoria RAM de 4GB, Tiene pantalla táctil, La duración de la batería es de 9h.",
+      "stock": 35
     }
   ]
 }
